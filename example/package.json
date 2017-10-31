@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "private": true,
   "scripts": {
-    "start": "node_modules/react-native/packager/packager.sh --assetRoots=./iOS/Images.xcassets"
+    "start": "node_modules/react-native/scripts/packager.sh"
   },
   "dependencies": {
     "prop-types": "^15.5.10",
