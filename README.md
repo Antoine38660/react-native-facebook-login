@@ -232,7 +232,7 @@ $(SRCROOT)/../node_modules/react-native-facebook-login/FacebookSDK
 ## Example project
 ### Toy
 ```sh
-open example/ios/examples.xcodeproj
+open example/ios/example.xcodeproj
 ```
 
 See the [example](example/) project for a working example.
